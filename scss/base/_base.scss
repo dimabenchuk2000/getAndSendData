@@ -1,0 +1,18 @@
+html,
+body {
+    font-family: var(--main-font);
+    color: var(--main-color);
+    font-weight: 400;
+
+    background-color: var(--bg-color);
+
+    a {
+        color: var(--main-color);
+    }
+}
+
+.container {
+    max-width: 1144px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
