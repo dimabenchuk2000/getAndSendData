@@ -132,4 +132,10 @@ body a {
   max-width: 1144px;
   padding: 0 15px;
   margin: 0 auto;
+}
+
+.title {
+  font-size: 58px;
+  text-align: center;
+  margin-top: 220px;
 }/*# sourceMappingURL=main.css.map */
